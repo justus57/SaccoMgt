@@ -1,4 +1,4 @@
-page 51007 "Loans List"
+page 51009 "LoansList"
 {
 
     Caption = 'Loans List';
